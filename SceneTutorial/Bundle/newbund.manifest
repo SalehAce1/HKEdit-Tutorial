@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 2270078041
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9cd6dede4dddc64672dfbe5ceb5731b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Scene/Scenes/Abyss/TestAbyss.unity
+Dependencies: []
